@@ -32,4 +32,6 @@ public interface DepartmentMapper {
     int test();
 
     int test2();
+
+    int test3();
 }
