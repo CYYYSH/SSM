@@ -40,4 +40,5 @@ public interface DepartmentMapper {
     int test3(String i);
 
     int test4();
+    int test6();
 }
